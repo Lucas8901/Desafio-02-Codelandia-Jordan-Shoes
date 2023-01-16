@@ -1,4 +1,4 @@
-<h1 align="center">Desafio 02 - Comunidade Codelândia </h1>
+<h1 align="center">Desafio 02 - Comunidade Codelândia: Landing Page Jordan Shoes👟 </h1>
 <br>
 
 <h2 align="left">Descrição do projeto:</h2> <br>
